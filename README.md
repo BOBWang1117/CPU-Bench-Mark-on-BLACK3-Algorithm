@@ -82,15 +82,15 @@ hashverify:
 
 ## **Run program:**
 
-- Run make (Linux)
+1. Run make (Linux)
 
-Single Running Method:
+2. Running single command: 
 
-- Example: ./hashgen -t 16 -o 16 -i 16 -f data.bin -m 128 -s 1024 -d true
+    - Example: ./hashgen -t 16 -o 16 -i 16 -f data.bin -m 128 -s 1024 -d true
 
-- Example: ./hashverify -d true -f data.bin -v true
+    - Example: ./hashverify -d true -f data.bin -v true
 
 
-Batch Running Method:
+2. Batch Running Method:
 
-- Example: ./batch_1024.bash
+    - Example: ./batch_1024.bash
