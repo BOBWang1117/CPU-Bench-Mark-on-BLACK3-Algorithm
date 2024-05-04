@@ -1,0 +1,54 @@
+hashgen: Filesize 1024, Memory 128
+hashgen t1 o1 i1 m128 s1024 18.05
+
+hashgen t1 o1 i4 m128 s1024 18.21
+
+hashgen t1 o1 i16 m128 s1024 17.97
+
+hashgen t1 o4 i1 m128 s1024 13.53
+
+hashgen t1 o4 i4 m128 s1024 13.56
+
+hashgen t1 o4 i16 m128 s1024 13.41
+
+hashgen t1 o16 i1 m128 s1024 13.09
+
+hashgen t1 o16 i4 m128 s1024 12.95
+
+hashgen t1 o16 i16 m128 s1024 12.85
+
+hashgen t4 o1 i1 m128 s1024 17.93
+
+hashgen t4 o1 i4 m128 s1024 17.79
+
+hashgen t4 o1 i16 m128 s1024 17.87
+
+hashgen t4 o4 i1 m128 s1024 8.16
+
+hashgen t4 o4 i4 m128 s1024 8.14
+
+hashgen t4 o4 i16 m128 s1024 8.14
+
+hashgen t4 o16 i1 m128 s1024 7.58
+
+hashgen t4 o16 i4 m128 s1024 8.20
+
+hashgen t4 o16 i16 m128 s1024 7.56
+
+hashgen t16 o1 i1 m128 s1024 18.04
+
+hashgen t16 o1 i4 m128 s1024 17.96
+
+hashgen t16 o1 i16 m128 s1024 17.88
+
+hashgen t16 o4 i1 m128 s1024 12.23
+
+hashgen t16 o4 i4 m128 s1024 12.20
+
+hashgen t16 o4 i16 m128 s1024 12.27
+
+hashgen t16 o16 i1 m128 s1024 6.42
+
+hashgen t16 o16 i4 m128 s1024 6.63
+
+hashgen t16 o16 i16 m128 s1024 6.50

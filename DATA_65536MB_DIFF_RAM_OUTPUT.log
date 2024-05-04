@@ -1,0 +1,8 @@
+hashgen: Filesize 63356, Memory 1024/8192/16384/32768
+hashgen t16 o16 i16 m1024 s65536 865.08
+
+hashgen t16 o16 i16 m8192 s65536 547.33
+
+hashgen t16 o16 i16 m16384 s65536 834.46
+
+hashgen t16 o16 i16 m32768 s65536 std::bad_alloc
